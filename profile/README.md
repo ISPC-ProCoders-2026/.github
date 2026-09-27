@@ -1,4 +1,4 @@
-<figure><img src="./ISPC_portada.png" alt="logo-ispc" style="height: 400px;"></figure>
+<figure><img src="./ISPC_portada.png" alt="logo-ispc" style="height: 200px;"></figure>
 
 # ISPC ProCoders 2026
 
