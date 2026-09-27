@@ -1,3 +1,5 @@
+<figure><img src="./ISPC_portada.png" alt="logo-ispc" style="height: 400px;"></figure>
+
 # ISPC ProCoders 2026
 
 Bienvenido a la organización oficial de **ISPC ProCoders 2026**. Somos un equipo colaborativo de desarrolladores y estudiantes de la Tecnicatura Superior en Desarrollo de Software del Instituto Superior Politécnico Córdoba (ISPC).
